@@ -18,5 +18,6 @@ Step 2:
 
 Step 3: 
     You have to then enter the file extension of the entire process. 
+    
 Step 4:
     Insert the ranges it will count over
